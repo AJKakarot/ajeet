@@ -1,0 +1,13 @@
+P{
+    font-family: 'Bungee Spice', serif;
+}
+
+#lord{
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border:2px solid black
+}
+
